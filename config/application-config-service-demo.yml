@@ -6,4 +6,4 @@ eureka:
   client:
     # tmd不知道为啥service-url不行...
     serviceUrl:
-      defaultZone: http://192.168.197.253:8787/eureka
+      defaultZone: http://localhost:8787/eureka
