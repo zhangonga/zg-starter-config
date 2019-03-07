@@ -1,2 +1,3 @@
-service:
-  demo: 1111
+config:
+  service:
+    demo: 1111
