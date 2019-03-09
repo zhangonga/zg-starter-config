@@ -1,6 +1,6 @@
 config:
   service:
-    demo: 2222
+    demo: 1111
 
 eureka:
   client:
